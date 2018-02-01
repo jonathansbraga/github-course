@@ -6,3 +6,5 @@ Saiba mais em [jonathanbraga.blogspot.com](http://jonathansbraga.blogspot.com)
 
 Gostou do curso?? Quer mais?? ...
 
+Adição para validar envio para repositório remoto.
+
